@@ -1,0 +1,79 @@
+
+p{
+    font-family:sant-serif;
+  
+}
+
+a{
+    text-decoration:none;
+
+}
+body{
+    text-align:center;
+    background-color:rgb(239, 236, 240);
+}
+#logo{
+    width: 200px;
+    height: 30px;
+}
+#landing-image{
+    width: 100%;
+    height: auto;
+}
+#data{
+    text-align:center;
+}
+button{
+    
+    background-color:rgb(49, 57, 211);
+    color:white;
+    padding :10px 20px;
+   
+    
+    border-radius: 10px;
+   
+
+}
+
+button:hover{
+    
+    background-color:black;
+    color:white;
+    padding :10px 20px;
+   
+    
+    border-radius: 10px;
+   
+
+}
+
+
+iframe{
+    border-radius:20px;
+}
+header{
+    display:flex;
+    justify-content:space-around;
+}
+nav{
+    display:flex;
+    justify-content:space-evenly;
+     gap:30px;
+    
+}
+#Tutorials section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+#Tutorials iframe{
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+}
+#landing image{
+    height: 10px;
+    width: 20px;
+}
